@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/air-distance/static/css/main.073c9b0a.css",
+    "main.js": "/air-distance/static/js/main.db5fcb48.js",
+    "static/js/787.f4f6f6ba.chunk.js": "/air-distance/static/js/787.f4f6f6ba.chunk.js",
+    "index.html": "/air-distance/index.html",
+    "main.073c9b0a.css.map": "/air-distance/static/css/main.073c9b0a.css.map",
+    "main.db5fcb48.js.map": "/air-distance/static/js/main.db5fcb48.js.map",
+    "787.f4f6f6ba.chunk.js.map": "/air-distance/static/js/787.f4f6f6ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.db5fcb48.js"
+  ]
+}
